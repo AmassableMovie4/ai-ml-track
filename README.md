@@ -6,15 +6,14 @@ This directory contains three flagship AI/ML project tracks of increasing diffic
 
 problems/
 ├── easy/
-│ └── power-forecast/
-│ └── README.md
+│   └── power-forecast/
+│       └── README.md
 ├── medium/
-│ └── tweet-dashboard/
-│ └── README.md
+│   └── tweet-dashboard/
+│       └── README.md
 └── hard/
-└── face-mask-detector/
-└── README.md
-
+    └── face-mask-detector/
+        └── README.md
 
 
 ---
