@@ -4,6 +4,9 @@ This directory contains three flagship AI/ML project tracks of increasing diffic
 
 ## 📂 Directory Structure
 
+## 📂 Directory Structure
+
+```text
 problems/
 ├── easy/
 │   └── power-forecast/
