@@ -57,9 +57,3 @@ problems/
 - Visualization: React + WebRTC video stream, Grafana metrics dashboard  
 
 ---
-
-## 📝 Next Steps
-
-1. **Enter a Tier Folder**  
-   ```bash
-   cd problems/easy/power-forecast
