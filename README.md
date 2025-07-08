@@ -23,7 +23,7 @@ problems/
 
 ## 🚦 Tier 1 – Easy  
 ### Short-Term Power Demand Forecasting  
-**Path:** `problems/easy/power-forecast/README.md`  
+**Path:** [`problems/easy/power-forecast/README.md`](https://github.com/AmassableMovie4/ai-ml-track/blob/main/problems/easy/power-forecast/README.md)  
 **Description:** Build and compare ARIMA, Random Forest, and LSTM models to forecast the next 24 hours of electricity demand.  
 **Key Technologies:**  
 - Data processing: Pandas, NumPy  
@@ -35,7 +35,7 @@ problems/
 
 ## 🚧 Tier 2 – Medium  
 ### Tweet Sentiment Dashboard  
-**Path:** `problems/medium/tweet-dashboard/README.md`  
+**Path:** [`problems/medium/tweet-dashboard/README.md`](https://github.com/AmassableMovie4/ai-ml-track/blob/main/problems/medium/tweet-dashboard/README.md)  
 **Description:** Stream live tweets, train a TF–IDF/Word2Vec sentiment classifier, and display real-time sentiment charts in a React frontend.  
 **Key Technologies:**  
 - Data ingestion: Tweepy, GCP Pub/Sub  
@@ -48,7 +48,7 @@ problems/
 
 ## 🧩 Tier 3 – Hard  
 ### Face Mask Detector with Real-Time UI  
-**Path:** `problems/hard/face-mask-detector/README.md`  
+**Path:** [`problems/hard/face-mask-detector/README.md`](https://github.com/AmassableMovie4/ai-ml-track/blob/main/problems/hard/face-mask-detector/README.md)  
 **Description:** Fine-tune a MobileNetV2 for mask detection, export to ONNX, build an autoscaling inference service, and display live video overlays.  
 **Key Technologies:**  
 - Deep Learning: TensorFlow/Keras, OpenCV, ONNX  
